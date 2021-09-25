@@ -1,0 +1,47 @@
+body{
+font-family: 'Stick No Bills', sans-serif;
+}
+.test{
+    background-color:#007474;
+    color: white;
+    width: 50%;
+    margin-left: 25%;
+    border-radius: 20px;
+    box-shadow: 5px 5px 10px #007474;
+}
+.test2{
+    background-color:#009b7d;
+    color: white;
+    width: 50%;
+    margin-left: 25%;
+    border-radius: 20px;
+    box-shadow: 5px 5px 10px #009b7d;
+    margin-top: 50px;
+}
+.test3{
+    background-color: #00a86b;
+    color: white;
+    width: 50%;
+    margin-left: 25%;
+    border-radius: 20px;
+    box-shadow: 5px 5px 10px #00a86d;
+    margin-top: 50px;
+}
+.test4{
+    background-color:#00a693;
+    color: white;
+    width: 50%;
+    margin-left: 25%;
+    border-radius: 20px;
+    box-shadow: 5px 5px 10px #00a693;
+    margin-top: 50px;
+}
+.test5{
+    background-color:#00cc99;
+    color: white;
+    width: 50%;
+    margin-left: 25%;
+    border-radius: 20px;
+    box-shadow: 5px 5px 10px #00cc99;
+    margin-top: 50px;
+}
